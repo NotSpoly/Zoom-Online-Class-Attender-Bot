@@ -16,11 +16,11 @@ classJoined = "0"
 remindedAlready = "False"
 
 schedule ={
-"09 00 00" : "JOIN YOUR ONLINE CLASS",
-"02 00 00" : "YAY! You have a break now",
-"03 00 00" : "You should study now",
-"05 00 00" : "All work and no play, makes Shad0w a dumb boy! Lets Play!!",
-"06 00 00" : "Let's go back home, I am tired",
+"09 00 00" : "Join your class",
+"02 00 00" : "Break",
+"03 00 00" : "Study now",
+"05 00 00" : "Now you can play Valorant",
+"06 00 00" : "End",
 }
 while True:
     hour = datetime.now().strftime('%H')
